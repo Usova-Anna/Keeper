@@ -1,0 +1,10 @@
+This app requires an access token. To get the access token:
+1. You have to register at Dropbox.com
+2. Go to "For developers" (Разработчикам) section
+3. Choose "Create a new app"
+4. Choose an API (the only one)
+5. Choose type of access - App folder
+6. Name your app as ScreenShotKeeper
+7. Push "Next" and in the OAuth section push "Generate access token" button.
+8. Enter the token to the Main class, main method of this project
+(String ACCESS_TOKEN ="KEHM_EXAMPLE_TOKEN_E9inO";)
